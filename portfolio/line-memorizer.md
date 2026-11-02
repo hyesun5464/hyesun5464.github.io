@@ -4,6 +4,16 @@
 
 [웹에서 사용하기](https://line-memorizer.com/) · [Google Play](https://play.google.com/store/apps/details?id=com.linememorizer.line_memorizer) · [프로필로 돌아가기](https://github.com/hyesun5464/hyesun5464.github.io/blob/main/portfolio/README.md)
 
+## 앱 화면
+
+<p>
+  <img src="https://raw.githubusercontent.com/hyesun5464/hyesun5464/main/assets/line-memorizer-input.png" width="220" alt="대사노트 대본 입력 화면" />
+  <img src="https://raw.githubusercontent.com/hyesun5464/hyesun5464/main/assets/line-memorizer-role.png" width="220" alt="대사노트 내 역할 선택 화면" />
+  <img src="https://raw.githubusercontent.com/hyesun5464/hyesun5464/main/assets/line-memorizer-practice.png" width="220" alt="대사노트 한 문장씩 공개하는 연습 화면" />
+</p>
+
+대본 입력 → 내 역할 선택 → 한 문장씩 확인하며 연습하는 흐름입니다.
+
 ## 해결하려는 문제
 
 대본을 계속 읽는 것과 보지 않고 대사를 떠올리는 것은 다릅니다. 종이나 일반 메모에서 내 대사만 가리고 확인하는 작업을 반복해야 하는 불편을 줄이고자 했습니다.
