@@ -381,9 +381,8 @@ def build_legacy_redirects():
 
 def main():
     print("빌드 중...")
-    build_hub()
+    # Marketing pages are maintained directly; regenerate legal documents only.
     for app in APPS:
-        build_app_landing(app)
         for filename, label, md_name in app["docs"]:
             build_doc(app, filename, label, md_name)
     build_legacy_redirects()
