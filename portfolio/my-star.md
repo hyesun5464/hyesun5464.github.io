@@ -11,6 +11,16 @@
   <img src="https://raw.githubusercontent.com/hyesun5464/hyesun5464/main/assets/my-star-focus.png" width="230" alt="My Star 집중 타이머 화면" />
 </p>
 
+<p>
+  <img src="https://raw.githubusercontent.com/hyesun5464/hyesun5464/main/assets/my-star-rewards.png" width="230" alt="My Star 보상 목록" />
+  <img src="https://raw.githubusercontent.com/hyesun5464/hyesun5464/main/assets/my-star-idea-pack.png" width="230" alt="My Star 아이디어팩" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/hyesun5464/hyesun5464/main/assets/my-star-completion.png" width="230" alt="My Star 집중 완료와 별 획득" />
+  <img src="https://raw.githubusercontent.com/hyesun5464/hyesun5464/main/assets/my-star-constellation.png" width="230" alt="My Star 밤하늘 별자리" />
+</p>
+
 ## 해결하려는 문제
 
 해야 할 일을 알아도 시작하기 어려울 때가 있습니다. My Star는 집중을 마친 뒤 받을 보상을 미리 정해 두고, 완료 후 보상을 뽑는 과정으로 시작에 대한 기대를 만들고자 했습니다.
